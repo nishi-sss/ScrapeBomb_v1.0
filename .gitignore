@@ -23,3 +23,16 @@ secrets.json
 chromedriver
 geckodriver
 
+
+# Pythonキャッシュ
+*.py[cod]
+
+# 出力データ（CSVなど）
+data/
+*.csv
+
+# OS・エディタ系
+.idea/
+.vscode/
+
+
